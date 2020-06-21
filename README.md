@@ -1,2 +1,3 @@
-# Breast-cancer-classification-using-machine-learning
-Machine learning, Healthcare Analytics, Python , 
+# Breast cancer classification in python 
+# Using Ensemble method 
+
